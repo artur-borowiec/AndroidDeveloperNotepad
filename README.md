@@ -3,7 +3,7 @@ A personal notepad for collecting all types of information about Android develop
 
 
 ### Articles
-* [Medium](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2) Implementing In-App Updates in Android
+* [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
 
 
 ### Android Studio plugins
