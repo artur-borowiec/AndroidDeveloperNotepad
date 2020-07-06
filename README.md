@@ -8,3 +8,4 @@ A personal notepad for collecting all types of information about Android develop
 
 ### Android Studio plugins
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
+* [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
