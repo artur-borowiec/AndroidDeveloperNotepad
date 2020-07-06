@@ -1,8 +1,10 @@
 # AndroidDeveloperNotepad
 A personal notepad for collecting all types of information about Android development.
 
+## Useful links
+* [Android developers - Medium](https://medium.com/androiddevelopers)
 
-### Articles
+## Articles
 * [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
 
 
