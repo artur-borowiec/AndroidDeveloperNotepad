@@ -5,11 +5,13 @@ A personal notepad for collecting all types of information about Android develop
 * [Android developers - Medium](https://medium.com/androiddevelopers)
 * [Google Codelabs](https://codelabs.developers.google.com/)
 * [Material Design](https://material.io/)
+
+### Tutorials
+* [The Kotlin Programming Language](https://caster.io/courses/kotlin-programming-language)
 * [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Articles
 * [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
-
 
 ### Android Studio plugins
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
