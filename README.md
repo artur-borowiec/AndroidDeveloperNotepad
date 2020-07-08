@@ -4,7 +4,6 @@ A personal notepad for collecting all types of information about Android develop
 ### Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
 * [Google Codelabs](https://codelabs.developers.google.com/)
-* [Material Design](https://material.io/)
 
 ### Tutorials
 * [The Kotlin Programming Language](https://caster.io/courses/kotlin-programming-language)
@@ -25,6 +24,11 @@ A personal notepad for collecting all types of information about Android develop
 * [Glide](https://bumptech.github.io/glide/) - image loading library
 * [Krate](https://github.com/AutSoft/Krate) - shared preferences wrapper
 * [Butterknife](http://jakewharton.github.io/butterknife/) - field and method binding
+
+### UI/UX
+##### Guidelines
+* [Material Design](https://material.io/)
+##### Libraries
 * [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) - material design prompts
 
 ### Tools
