@@ -26,9 +26,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Butterknife](http://jakewharton.github.io/butterknife/) - field and method binding
 
 ### UI/UX
-##### Guidelines
 * [Material Design](https://material.io/)
-##### Libraries
 * [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) - material design prompts
 
 ### Tools
