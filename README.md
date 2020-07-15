@@ -1,5 +1,5 @@
 # AndroidDeveloperNotepad
-A personal notepad for collecting all types of information about Android development.
+A personal notepad for collecting all types of information about Android development. Tools that I've used or want to use.
 
 ### Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
@@ -32,4 +32,5 @@ A personal notepad for collecting all types of information about Android develop
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - charts library
 
 ### Tools
+* [scrcpy](https://github.com/Genymobile/scrcpy) - device screen on PC
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
