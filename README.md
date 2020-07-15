@@ -16,6 +16,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
+* [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
 
 ### Libraries
 * [Retrofit](https://square.github.io/retrofit/) - HTTP client
