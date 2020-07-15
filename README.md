@@ -10,6 +10,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Learn Git Branching](https://learngitbranching.js.org/)
 
 ### Articles
+* [Idiomatic Kotlin](https://medium.com/tompee/idiomatic-kotlin-extension-functions-67735491851f) - series of articles
 * [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
 
 ### Android Studio plugins
