@@ -37,3 +37,6 @@ A personal notepad for collecting all types of information about Android develop
 ### Tools
 * [scrcpy](https://github.com/Genymobile/scrcpy) - device screen on PC
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+
+### Never used, want to try
+* [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
