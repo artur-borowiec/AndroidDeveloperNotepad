@@ -18,6 +18,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 * [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
+* [Name That Color](https://plugins.jetbrains.com/plugin/10422-name-that-color) - generating names for colors
 
 ### Libraries
 * [Retrofit](https://square.github.io/retrofit/) - HTTP client
