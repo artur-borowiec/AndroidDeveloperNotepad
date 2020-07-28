@@ -27,6 +27,10 @@ A personal notepad for collecting all types of information about Android develop
 * [AndroidX](https://developer.android.com/jetpack/androidx) - Android extensions library
 * [Glide](https://bumptech.github.io/glide/) - image loading library
 * [Krate](https://github.com/AutSoft/Krate) - shared preferences wrapper
+
+### Legacy - used in older projects
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 * [Butterknife](http://jakewharton.github.io/butterknife/) - field and method binding
 
 ### UI/UX
