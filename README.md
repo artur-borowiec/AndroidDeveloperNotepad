@@ -28,6 +28,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Glide](https://bumptech.github.io/glide/) - image loading library
 * [Krate](https://github.com/AutSoft/Krate) - shared preferences wrapper
 * [Timber](https://github.com/JakeWharton/timber) - logger
+* [JSoup](https://jsoup.org/) - for web scrapping
 
 ### Legacy - used in older projects
 * [RxJava](https://github.com/ReactiveX/RxJava)
