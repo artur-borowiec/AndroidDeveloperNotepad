@@ -12,6 +12,7 @@ A personal notepad for collecting all types of information about Android develop
 ### Articles
 * [Idiomatic Kotlin](https://medium.com/tompee/idiomatic-kotlin-extension-functions-67735491851f) - series of articles
 * [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
+* [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 
 ### Android Studio plugins
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
