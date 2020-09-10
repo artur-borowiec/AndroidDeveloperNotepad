@@ -49,5 +49,6 @@ A personal notepad for collecting all types of information about Android develop
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 
 ### Never used, want to try
+* [fastlane](https://fastlane.tools/)
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 * [Coil](https://coil-kt.github.io/coil/) - coroutines based image loading
