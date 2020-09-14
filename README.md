@@ -15,6 +15,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
 * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
 * [20 Android Dev Tools You’ve Probably Never Heard Of](https://medium.com/better-programming/20-android-dev-tools-youve-probably-never-heard-of-c6cc08b4e543)
+* [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 
 ### Android Studio plugins
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
