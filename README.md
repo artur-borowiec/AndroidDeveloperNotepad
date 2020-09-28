@@ -54,3 +54,4 @@ A personal notepad for collecting all types of information about Android develop
 * [fastlane](https://fastlane.tools/)
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 * [Coil](https://coil-kt.github.io/coil/) - coroutines based image loading
+* [Mirakle](https://github.com/Adambl4/mirakle)
