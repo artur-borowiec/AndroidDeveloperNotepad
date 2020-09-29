@@ -49,6 +49,7 @@ A personal notepad for collecting all types of information about Android develop
 ### Tools
 * [scrcpy](https://github.com/Genymobile/scrcpy) - device screen on PC
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
+* [carbon](https://carbon.now.sh/) - images of your source code
 
 ### Never used, want to try
 * [fastlane](https://fastlane.tools/)
