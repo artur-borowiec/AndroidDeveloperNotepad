@@ -27,6 +27,7 @@ A personal notepad for collecting all types of information about Android develop
 
 ### Libraries
 * [Retrofit](https://square.github.io/retrofit/) - HTTP client
+* [Moshi](https://github.com/square/moshi) - JSON library
 * [Koin](https://insert-koin.io/) - lightweight dependency injection
 * [Firebase Authentication](https://firebase.google.com/docs/auth) - for users' authentication
 * [AndroidX](https://developer.android.com/jetpack/androidx) - Android extensions library
