@@ -19,6 +19,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Image Loading with Glide - How it works](https://codingwithmitch.com/blog/image-loading-with-glide-how-it-works/)
 
 ### Android Studio plugins
+* [detekt](https://github.com/detekt/detekt-intellij-plugin)
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
