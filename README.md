@@ -17,6 +17,8 @@ A personal notepad for collecting all types of information about Android develop
 * [20 Android Dev Tools You’ve Probably Never Heard Of](https://medium.com/better-programming/20-android-dev-tools-youve-probably-never-heard-of-c6cc08b4e543)
 * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 * [Image Loading with Glide - How it works](https://codingwithmitch.com/blog/image-loading-with-glide-how-it-works/)
+* [Keep your codebase tidy with detekt](https://medium.com/livefront/android-static-code-checks-keep-your-codebase-tidy-with-detekt-408435665fc3)
+* [Improving kotlin quality](https://abdullahbalta.medium.com/improving-kotlin-quality-fc59df802ba8)
 
 ### Android Studio plugins
 * [detekt](https://github.com/detekt/detekt-intellij-plugin)
