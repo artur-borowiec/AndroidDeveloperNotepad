@@ -40,6 +40,9 @@ A personal notepad for collecting all types of information about Android develop
 * [Timber](https://github.com/JakeWharton/timber) - logger
 * [JSoup](https://jsoup.org/) - for web scrapping
 
+### Testing
+* [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
+
 ### Legacy - used in older projects
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin)
