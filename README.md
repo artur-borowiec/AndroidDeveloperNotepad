@@ -44,6 +44,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
 ### Quality
+* [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - app debugging & inspection tool
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 
 ### Legacy - used in older projects
