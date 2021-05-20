@@ -43,6 +43,9 @@ A personal notepad for collecting all types of information about Android develop
 ### Testing
 * [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
+### Quality
+* [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
+
 ### Legacy - used in older projects
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin)
@@ -61,7 +64,6 @@ A personal notepad for collecting all types of information about Android develop
 
 ### Never used, want to try
 * [fastlane](https://fastlane.tools/)
-* [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 * [Coil](https://coil-kt.github.io/coil/) - coroutines based image loading
 * [Mirakle](https://github.com/Adambl4/mirakle)
 * [Zoomy](https://github.com/imablanco/Zoomy)
