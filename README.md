@@ -46,11 +46,7 @@ A personal notepad for collecting all types of information about Android develop
 ### Quality
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - app debugging & inspection tool
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
-
-### Legacy - used in older projects
-* [RxJava](https://github.com/ReactiveX/RxJava)
-* [RxKotlin](https://github.com/ReactiveX/RxKotlin)
-* [Butterknife](http://jakewharton.github.io/butterknife/) - field and method binding
+* [Bye Bye Jetifier](https://github.com/dipien/bye-bye-jetifier) - plugin to verify if you can keep Android Jetifier disabled
 
 ### UI/UX
 * [Material Design](https://material.io/)
@@ -68,3 +64,9 @@ A personal notepad for collecting all types of information about Android develop
 * [Coil](https://coil-kt.github.io/coil/) - coroutines based image loading
 * [Mirakle](https://github.com/Adambl4/mirakle)
 * [Zoomy](https://github.com/imablanco/Zoomy)
+
+### Legacy - used in older projects
+* [RxJava](https://github.com/ReactiveX/RxJava)
+* [RxKotlin](https://github.com/ReactiveX/RxKotlin)
+* [Butterknife](http://jakewharton.github.io/butterknife/) - field and method binding
+* [Can I drop Jetifier](https://github.com/plnice/can-i-drop-jetifier) - plugin that checks if there are dependencies using support library instead of AndroidX
