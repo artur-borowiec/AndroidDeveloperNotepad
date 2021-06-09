@@ -28,6 +28,9 @@ A personal notepad for collecting all types of information about Android develop
 * [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
 * [Name That Color](https://plugins.jetbrains.com/plugin/10422-name-that-color) - generating names for colors
 
+### IDE tips
+* [Mastering Code Line Bookmark in IntelliJ and Android Studio]https://medium.com/@amir.ghm/mastering-code-line-bookmark-in-intellij-and-android-studio-fcbf96bfbff1
+
 ### Libraries
 * [Retrofit](https://square.github.io/retrofit/) - HTTP client
 * [Scarlet](https://github.com/Tinder/Scarlet) - A Retrofit inspired WebSocket client
