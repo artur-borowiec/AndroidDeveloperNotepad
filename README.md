@@ -43,6 +43,9 @@ A personal notepad for collecting all types of information about Android develop
 * [Timber](https://github.com/JakeWharton/timber) - logger
 * [JSoup](https://jsoup.org/) - for web scrapping
 
+### Open source projects
+* [Signal](https://github.com/signalapp/Signal-Android) - private messenger
+
 ### Testing
 * [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
