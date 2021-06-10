@@ -56,6 +56,7 @@ A personal notepad for collecting all types of information about Android develop
 
 ### UI/UX
 * [Material Design](https://material.io/)
+* [Material Design Tools](https://material.io/resources)
 * [Material Dialogs](https://github.com/afollestad/material-dialogs) - material design dialogs
 * [MaterialTapTargetPrompt](https://github.com/sjwall/MaterialTapTargetPrompt) - material design prompts
 * [MPAndroidChart](https://github.com/PhilJay/MPAndroidChart) - charts library
