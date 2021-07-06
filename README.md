@@ -1,6 +1,11 @@
 # AndroidDeveloperNotepad
 A personal notepad for collecting all types of information about Android development. Tools that I've used or want to use.
 
+### Categories
+* [Useful links](#useful-links)
+* [Tutorials](#tutorials)
+* [Articles](#articles)
+
 ### Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
 * [Google Codelabs](https://codelabs.developers.google.com/)
