@@ -1,4 +1,4 @@
-# AndroidDeveloperNotepad
+# Notepad for Android Developer
 A personal notepad for collecting all types of information about Android development. Tools that I've used or want to use.
 
 ### Categories
