@@ -14,6 +14,10 @@ A personal notepad for collecting all types of information about Android develop
 * [Open source projects](#open-source-projects)
 * [Quality](#quality)
   * [Testing](#testing)
+* [UI/UX](#uiux)
+* [Tools](#tools)
+* [Never used, want to try](#never-used-want-to-try)
+* [Legacy - used in older projects](#legacy-used-in-older-projects)
 ---
 ## Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
