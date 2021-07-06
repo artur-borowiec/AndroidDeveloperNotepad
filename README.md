@@ -11,6 +11,9 @@ A personal notepad for collecting all types of information about Android develop
   * [Network](#network)
   * [Media](#media)
   * [Other](#other)
+* [Open source projects](#open-source-projects)
+* [Quality](#quality)
+  * [Testing](#testing)
 ---
 ## Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
@@ -59,15 +62,14 @@ A personal notepad for collecting all types of information about Android develop
 ## Open source projects
 * [Signal](https://github.com/signalapp/Signal-Android) - private messenger
 
-## Testing
-* [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
-
 ## Quality
 * [Timber](https://github.com/JakeWharton/timber) - logger
 * [Pretty Timber Android Logcat](https://github.com/androiddevnotesyoutube/pretty-timber-android-logcat) - logging formatter
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - app debugging & inspection tool
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 * [Bye Bye Jetifier](https://github.com/dipien/bye-bye-jetifier) - plugin to verify if you can keep Android Jetifier disabled
+#### Testing
+* [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
 ## UI/UX
 * [Material Design](https://material.io/)
