@@ -6,6 +6,11 @@ A personal notepad for collecting all types of information about Android develop
 * [Tutorials](#tutorials)
 * [Articles](#articles)
 * [Android Studio plugins](#android-studio-plugins)
+* [IDE tips](#ide-tips)
+* [Libraries](#libraries)
+  * [Network](#network)
+  * [Media](#media)
+  * [Other](#other)
 ---
 ## Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
@@ -50,8 +55,6 @@ A personal notepad for collecting all types of information about Android develop
 * [Koin](https://insert-koin.io/) - lightweight dependency injection
 * [AndroidX](https://developer.android.com/jetpack/androidx) - Android extensions library
 * [Krate](https://github.com/AutSoft/Krate) - shared preferences wrapper
-* [Timber](https://github.com/JakeWharton/timber) - logger
-* [Pretty Timber Android Logcat](https://github.com/androiddevnotesyoutube/pretty-timber-android-logcat) - logging formatter
 
 ## Open source projects
 * [Signal](https://github.com/signalapp/Signal-Android) - private messenger
@@ -60,6 +63,8 @@ A personal notepad for collecting all types of information about Android develop
 * [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
 ## Quality
+* [Timber](https://github.com/JakeWharton/timber) - logger
+* [Pretty Timber Android Logcat](https://github.com/androiddevnotesyoutube/pretty-timber-android-logcat) - logging formatter
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - app debugging & inspection tool
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 * [Bye Bye Jetifier](https://github.com/dipien/bye-bye-jetifier) - plugin to verify if you can keep Android Jetifier disabled
