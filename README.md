@@ -5,7 +5,8 @@ A personal notepad for collecting all types of information about Android develop
 * [Useful links](#useful-links)
 * [Tutorials](#tutorials)
 * [Articles](#articles)
-
+* [Android Studio plugins](#android-studio-plugins)
+---
 ### Useful links
 * [Android developers - Medium](https://medium.com/androiddevelopers)
 * [Google Codelabs](https://codelabs.developers.google.com/)
