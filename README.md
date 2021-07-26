@@ -39,6 +39,8 @@ A personal notepad for collecting all types of information about Android develop
 #### Kotlin
 * [Idiomatic Kotlin](https://medium.com/tompee/idiomatic-kotlin-extension-functions-67735491851f) - series of articles
 * [Improving kotlin quality](https://abdullahbalta.medium.com/improving-kotlin-quality-fc59df802ba8)
+#### UI/UX
+* [Implementing Google’s refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
 
 ## Android Studio plugins
 * [detekt](https://github.com/detekt/detekt-intellij-plugin)
