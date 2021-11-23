@@ -48,11 +48,6 @@ A personal notepad for collecting all types of information about Android develop
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 * [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
 * [Name That Color](https://plugins.jetbrains.com/plugin/10422-name-that-color) - generating names for colors
-#### QA
-* [detekt](https://github.com/detekt/detekt-intellij-plugin)
-#### QA - Hyperion
-* [Hyperion](https://github.com/willowtreeapps/Hyperion-Android)
-* [Hyperion - font scale plugin](https://github.com/DroidsOnRoids/FoQA#font-scale-plugin)
 
 ## IDE tips
 * [Mastering Code Line Bookmark in IntelliJ and Android Studio](https://medium.com/@amir.ghm/mastering-code-line-bookmark-in-intellij-and-android-studio-fcbf96bfbff1)
@@ -65,7 +60,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Firebase Authentication](https://firebase.google.com/docs/auth) - for users authentication
 * [JSoup](https://jsoup.org/) - for web scrapping
 #### Media
-* [Glide](https://bumptech.github.io/glide/) - image loading library
+* [Coil](https://coil-kt.github.io/coil/) - coroutines based image loading
 #### Other
 * [Koin](https://insert-koin.io/) - lightweight dependency injection
 * [AndroidX](https://developer.android.com/jetpack/androidx) - Android extensions library
@@ -80,6 +75,10 @@ A personal notepad for collecting all types of information about Android develop
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android) - app debugging & inspection tool
 * [Leak Canary](https://github.com/square/leakcanary) - memory leak detection library
 * [Bye Bye Jetifier](https://github.com/dipien/bye-bye-jetifier) - plugin to verify if you can keep Android Jetifier disabled
+* [detekt](https://github.com/detekt/detekt-intellij-plugin)
+* [Hyperion](https://github.com/willowtreeapps/Hyperion-Android)
+* [Hyperion - font scale plugin](https://github.com/DroidsOnRoids/FoQA#font-scale-plugin)
+
 #### Testing
 * [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
@@ -99,12 +98,12 @@ A personal notepad for collecting all types of information about Android develop
 
 ## Never used, want to try
 * [fastlane](https://fastlane.tools/)
-* [Coil](https://coil-kt.github.io/coil/) - coroutines based image loading
 * [Mirakle](https://github.com/Adambl4/mirakle)
 * [Zoomy](https://github.com/imablanco/Zoomy)
 * [Kakao](https://github.com/agoda-com/Kakao)
 
 ## Legacy - used in older projects
+* [Glide](https://bumptech.github.io/glide/) - image loading library
 * [RxJava](https://github.com/ReactiveX/RxJava)
 * [RxKotlin](https://github.com/ReactiveX/RxKotlin)
 * [Butterknife](http://jakewharton.github.io/butterknife/) - field and method binding
