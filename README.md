@@ -43,12 +43,16 @@ A personal notepad for collecting all types of information about Android develop
 * [Implementing Google’s refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
 
 ## Android Studio plugins
-* [detekt](https://github.com/detekt/detekt-intellij-plugin)
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
 * [Key Promoter X](https://plugins.jetbrains.com/plugin/9792-key-promoter-x)
 * [ADB Idea](https://plugins.jetbrains.com/plugin/7380-adb-idea)
 * [Presentation Assistant](https://plugins.jetbrains.com/plugin/7345-presentation-assistant)
 * [Name That Color](https://plugins.jetbrains.com/plugin/10422-name-that-color) - generating names for colors
+#### QA
+* [detekt](https://github.com/detekt/detekt-intellij-plugin)
+
+* [Hyperion](https://github.com/willowtreeapps/Hyperion-Android)
+* [Hyperion - font scale plugin](https://github.com/DroidsOnRoids/FoQA#font-scale-plugin)
 
 ## IDE tips
 * [Mastering Code Line Bookmark in IntelliJ and Android Studio](https://medium.com/@amir.ghm/mastering-code-line-bookmark-in-intellij-and-android-studio-fcbf96bfbff1)
