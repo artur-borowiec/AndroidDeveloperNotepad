@@ -50,7 +50,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Name That Color](https://plugins.jetbrains.com/plugin/10422-name-that-color) - generating names for colors
 #### QA
 * [detekt](https://github.com/detekt/detekt-intellij-plugin)
-
+#### QA - Hyperion
 * [Hyperion](https://github.com/willowtreeapps/Hyperion-Android)
 * [Hyperion - font scale plugin](https://github.com/DroidsOnRoids/FoQA#font-scale-plugin)
 
