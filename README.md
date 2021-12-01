@@ -24,6 +24,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Android developers - Medium](https://medium.com/androiddevelopers)
 * [Google Codelabs](https://codelabs.developers.google.com/)
 * [Android Arsenal](https://android-arsenal.com/)
+* [Android Developer Roadmap 2022](https://github.com/skydoves/android-developer-roadmap)
 
 ## Tutorials
 * [The Kotlin Programming Language](https://caster.io/courses/kotlin-programming-language)
