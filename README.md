@@ -33,10 +33,8 @@ A personal notepad for collecting all types of information about Android develop
 ## Articles
 * [Implementing In-App Updates in Android](https://medium.com/swlh/implementing-in-app-updates-in-android-26ea27609bd2)
 * [Understanding migrations with Room](https://medium.com/androiddevelopers/understanding-migrations-with-room-f01e04b07929)
-* [20 Android Dev Tools You’ve Probably Never Heard Of](https://medium.com/better-programming/20-android-dev-tools-youve-probably-never-heard-of-c6cc08b4e543)
 * [The S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 * [Image Loading with Glide - How it works](https://codingwithmitch.com/blog/image-loading-with-glide-how-it-works/)
-* [Keep your codebase tidy with detekt](https://medium.com/livefront/android-static-code-checks-keep-your-codebase-tidy-with-detekt-408435665fc3)
 #### Kotlin
 * [Idiomatic Kotlin](https://medium.com/tompee/idiomatic-kotlin-extension-functions-67735491851f) - series of articles
 * [Improving kotlin quality](https://abdullahbalta.medium.com/improving-kotlin-quality-fc59df802ba8)
@@ -44,6 +42,10 @@ A personal notepad for collecting all types of information about Android develop
 * [Using the factory design pattern with Kotlin](https://dev.to/jimfilippou/using-the-factory-design-pattern-with-kotlin-5bh5)
 #### UI/UX
 * [Implementing Google’s refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
+#### Tools
+* [20 Android Dev Tools You’ve Probably Never Heard Of](https://medium.com/better-programming/20-android-dev-tools-youve-probably-never-heard-of-c6cc08b4e543)
+* [Keep your codebase tidy with detekt](https://medium.com/livefront/android-static-code-checks-keep-your-codebase-tidy-with-detekt-408435665fc3)
+* [Two Developer Tools for Documenting Android Codebases](https://betterprogramming.pub/two-developer-tools-for-documenting-android-codebases-3482bad3fb4c)
 
 ## Android Studio plugins
 * [Rainbow Brackets](https://plugins.jetbrains.com/plugin/10080-rainbow-brackets)
