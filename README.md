@@ -100,6 +100,7 @@ A personal notepad for collecting all types of information about Android develop
 * [scrcpy](https://github.com/Genymobile/scrcpy) - device screen on PC
 * [Android Asset Studio](https://romannurik.github.io/AndroidAssetStudio/)
 * [carbon](https://carbon.now.sh/) - images of your source code
+* [cloc](https://github.com/AlDanial/cloc) - count lines of code
 
 ## Never used, want to try
 * [fastlane](https://fastlane.tools/)
