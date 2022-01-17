@@ -87,6 +87,9 @@ A personal notepad for collecting all types of information about Android develop
 #### Testing
 * [Kluent](https://github.com/MarkusAmshove/Kluent) - fluent assertions library
 
+#### Instrumentation tests
+* [BasicUnitAndroidTest](https://github.com/android/testing-samples/tree/main/unit/BasicUnitAndroidTest)
+
 ## UI/UX
 * [Material Design](https://material.io/)
 * [Material Design Tools](https://material.io/resources)
