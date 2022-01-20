@@ -6,6 +6,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Tutorials](#tutorials)
 * [Articles](#articles)
   * [Kotlin](#kotlin)
+  * [Architecture](#architecture)
 * [Android Studio plugins](#android-studio-plugins)
 * [IDE tips](#ide-tips)
 * [Libraries](#libraries)
@@ -39,6 +40,7 @@ A personal notepad for collecting all types of information about Android develop
 * [Idiomatic Kotlin](https://medium.com/tompee/idiomatic-kotlin-extension-functions-67735491851f) - series of articles
 * [Improving kotlin quality](https://abdullahbalta.medium.com/improving-kotlin-quality-fc59df802ba8)
 #### Architecture
+* [Clean Architecture Guide (with tested examples)](https://proandroiddev.com/clean-architecture-data-flow-dependency-rule-615ffdd79e29)
 * [Using the factory design pattern with Kotlin](https://dev.to/jimfilippou/using-the-factory-design-pattern-with-kotlin-5bh5)
 #### UI/UX
 * [Implementing Google’s refreshed modal bottom sheet](https://medium.com/halcyon-mobile/implementing-googles-refreshed-modal-bottom-sheet-4e76cb5de65b)
